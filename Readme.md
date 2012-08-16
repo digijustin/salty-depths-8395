@@ -1,6 +1,8 @@
 Facebook/Heroku sample app -- PHP
 =================================
 
+I really want to see if anything works here.
+
 This is a sample app showing use of the Facebook Graph API, written in PHP, designed for deployment to [Heroku](http://www.heroku.com/).
 
 Run locally
